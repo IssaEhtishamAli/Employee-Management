@@ -5,8 +5,7 @@
 - Angular Material
 + fxLayout
 - Sass
-# Front-End Environment![localhost_4200_pages_dashboard (5)](https://user-images.githubusercontent.com/92297443/202919034-dd701560-c04b-486a-be61-332c69068bb1.png)
-
+# Front-End Environment
 + ***Install the Angular cli:13.2.6***
 - ***Install the Node.js 16.13.2***
 + ***Install the npm cli:8.1.2***
